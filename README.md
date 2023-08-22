@@ -1,4 +1,8 @@
-### Hi there 👋
+##Atsuki Inoue
+- DoB: 2002/01/15
+- Email: atsuki.inoue@g.pascalia.co.jp
+- Hobbies: listening to music
+
 
 <!--
 **Atsuki-Inoue/Atsuki-Inoue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
